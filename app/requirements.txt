@@ -1,0 +1,13 @@
+langchain_google_genai
+langchain_openai
+click
+httpx
+langgraph
+pydantic
+python-dotenv
+sse-starlette
+starlette
+uvicorn
+a2a-sdk
+streamlit
+
